@@ -1,4 +1,9 @@
-### Hi there 👋
+ Hi there 👋
+
+ I remember the first time I was officially introduced to web development. Several years back, I had the opportunity to work with one of our company web designers, and although it was only a small dive into the vast content of software, I immediately knew I had found a passion. From there, I did research and broadened my knowledge by taking some online classes with basic web programming languages. Fast forward a few years, and I am now a full stack web developer. It has been the most incredible journey, and there is no looking back. I'm currently working on learning some new frameworks. Anything in development excites me, but especially code that relates to the server side. 
+ 
+ “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
+   —Bill Gates ✨
 
 <!--
 **LauraAlspaugh/LauraAlspaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
